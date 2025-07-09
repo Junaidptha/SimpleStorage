@@ -6,3 +6,6 @@
 
 to interact with deployed contract uses : cast like send , call etc.
 
+
+after setting up .env run in terminal source .env the run deploy code
+
